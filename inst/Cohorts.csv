@@ -1,0 +1,84 @@
+webApiCohortId,cohortId,cohortName
+331,331,[dylee] [total] AD with antiADHD
+276,276,[dylee] [total] AntiADHD alone in adult ADHD
+115,115,[CKim] atrial fibrillation
+309,309,[CKim] eating disorder
+308,308,[dylee] suicidal event
+307,307,[dylee] spr related hospitalization
+306,306,[dylee] ADHD hospitalization mph
+305,305,[dylee]parkinsonism_mph
+304,304,[dylee] EPS
+303,303,[CKim] liver disease (1)
+302,302,[CKim] Epilepsy (1)
+301,301,[CKim] abnormal gait (1)
+300,300,[CKim] asthma outcome (1)
+299,299,[CKim] dystonia (1)
+298,298,[CKim] chronic kidney disease (1)
+297,297,[CKim] myocarditis (1)
+296,296,[CKim] hypotension (1)
+295,295,[CKim] coronary heart disease (1)
+294,294,[CKim] cerebrovascular disease (1)
+293,293,[CKim] cardiomyopathy (1)
+292,292,[CKim] obesity (1)
+291,291,[CKim] type 2 diabetes (1)
+290,290,[CKim] appetitie (1)
+289,289,[CKim] insomnia (1)
+288,288,[CKim] mania (1)
+287,287,[CKim] anxiety (1)
+286,286,[CKim] agitation (1)
+285,285,[CKim] ischemic heart disease (1)
+284,284,[CKim] MI (1)
+283,283,[CKim] Essential hypertension (1)
+282,282,[CKim] Heart Failure (1)
+281,281,[CKim] Arrhythmia (1)
+143,143,[CKim] sleep disorder
+142,142,[CKim] hyponatremia
+141,141,[CKim] tic disorder
+139,139,[CKim] traumatic injury
+138,138,[CKim] fever
+137,137,[CKim] accident
+135,135,[CKim] osteoporosis outcome
+134,134,[CKim] upper respiratory tract infection pneumonia
+133,133,[CKim] nasopharyngitis
+131,131,[CKim] acute respiratory failure
+130,130,[CKim] thrombocytopenia
+129,129,[CKim] anemia
+128,128,[CKim] hypo_hyperthyroidism
+127,127,[CKim] hyperprolactinemia
+126,126,[CKim] gynecomastia
+124,124,[CKim] substance abuse
+123,123,[CKim] gambling
+121,121,[CKim] tremor
+119,119,[CKim] nausea vomitting
+118,118,[CKim] diarrhea
+117,117,[CKim] constipation
+116,116,[CKim] Abdominal pain
+105,105,[CKim] anorexia
+103,103,[CKim] psychosis
+101,101,[CKim] headache
+100,100,[CKim] dizziness
+99,99,[CKim] fatigue
+95,95,[CKim] seizure
+92,92,[CKim] delirium
+88,88,[CKim] bleeding
+87,87,[CKim] hyperlipidemia
+330,330,[dylee] [total] AD with antiADHD gap 0
+332,332,[dylee] [total] AD with MPH
+244,244,[dylee] [total] MPH alone in adult ADHD
+333,333,[dylee] [total] AD with MPH gap 0
+280,280,[dylee] [class] SSRI with antiADHD gap 0
+310,310,[dylee] [class] SSRI with antiADHD
+320,320,[dylee] [class] SSRI with MPH gap 0
+321,321,[dylee] [class] SSRI with MPH
+334,334,[dylee] [sub-class] fluoxetine with antiADHD
+338,338,[dylee] [sub-class] escitalopram with antiADHD
+335,335,[dylee] [sub-class] fluoxetine with antiADHD gap 0
+339,339,[dylee] [sub-class] escitalopram with antiADHD gap 0
+337,337,[dylee] [sub-class] sertraline with antiADHD
+336,336,[dylee] [sub-class] sertraline with antiADHD gap 0
+344,344,[dylee] [sub-class] fluoxetine with MPH gap 0
+348,348,[dylee] [sub-class] escitalopram with MPH gap 0
+345,345,[dylee] [sub-class] fluoxetine with MPH
+349,349,[dylee] [sub-class] escitalopram with MPH
+347,347,[dylee] [sub-class] sertraline with MPH gap 0
+346,346,[dylee] [sub-class] sertraline with MPH
